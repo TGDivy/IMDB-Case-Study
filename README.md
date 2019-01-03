@@ -3,7 +3,7 @@
 This is one of my first projects in data science. In this project, I explore the IMDB dataset to answer the question of:
 How has the trend in the genre of films produced evolved since 1970s?
 
-For more details on the project, and its result please check out the presentation file in the repository.
+For more details on the project, and its result please check out the [presentation file](https://github.com/TGDivy/IMDB-Case-Study/blob/master/IMDB%20case%20study%20DivyBramhecha.pdf) in the repository.
 
 The focus on research shifts from trends popular all over the world to genres recently popular in hollywood like: Romance, Sci-Fi, History, Action.
 
